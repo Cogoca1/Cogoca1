@@ -21,5 +21,5 @@ Además, estoy comprometida con la excelencia en el desarrollo web, buscando sie
 <li>HML5</li>
 <li>CS3</li>
 <li>JAVASCRIPT</li>
-<li>Bootstrap</li>
+
 </ul>
